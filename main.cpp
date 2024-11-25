@@ -3,6 +3,8 @@
 using namespace std;
 int main()
 {
-  cout<<"\nhello GIT\n"<<std::flush;
+====Base====
+  std::cout<<"\nhello GIT\n"<<std::flush;
+===Base===
   return 0;
 }
